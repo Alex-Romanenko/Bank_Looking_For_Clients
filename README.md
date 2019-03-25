@@ -29,7 +29,7 @@ We will perform two approaches in  Analysis.
 
 - Python
 - Pandas
-- Nampy
+- Numpy
 - Seaborn
 - Matplotlib
 - Scikit-learn Library
