@@ -1,10 +1,10 @@
 # Bank Looking For Clients
-The case is the Bank has a customers Data Base with various characteristics of persons who have Certificate of Deposit in this Bank.
-Management built a new product - Personal Loan, run a small campaign toward to sell New Product to their Depositors. 
-After time 9% of Depositors now have a second Product in their pockets - Personal Loan from the Bank.
+The case is the Bank has a customers Data with various characteristics of persons.
+Management built a new product - Personal Loan, run a small campaign toward to sell New Product to their clients. 
+After time, 9% of customers have Personal Loan from the Bank.
 
 ### The GOAL IS!
-> - To sell more Personal Loan products to Bank customers while retaining them as Depositors.
+> - To sell more Personal Loan products to Bank customers.
 > - To devise campaigns to better target marketing to increase the success ratio with a minimal budget.
 > - To identify the potential customers who have a higher probability of purchasing the loan. 
 
@@ -14,9 +14,9 @@ Increase the success ratio of advertisement campaign while at the same time redu
 ### The Questions for Analysis
 > - Is there some correlation between personal characteristics and the fact that person obtained Personal Loan (Loan Fact)?
 > If so:
-> - What those Main Characteristics that has a higher correlation with Loan Fact and what the strength of correlation?
-> - What the Segments of Main Characteristics, that has a higher ratio of conversion Depositors into the Personal Loaners?
-> - What is the sample of Data Base with persons from Main Segments. 
+> - What are those Main Characteristics that has a higher correlation with Loan Fact and what the strength of correlation?
+> - What the Segments of Main Characteristics, that has a higher ratio of conversion customers into the Personal Loaners?
+> - What is the sample of Data with persons from Main Segments. 
 > - What is the probability of person obtain Personal Loan if his/her characteristics come from Main Segments?
 
 ### Approach
