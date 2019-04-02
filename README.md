@@ -1,4 +1,8 @@
 # Bank Looking For Clients
+
+**Source of data:**
+https://www.kaggle.com/itsmesunil/bank-loan-modelling
+<br><br>
 The case is The Bank has a customers Data with various characteristics of the customers. The management built a new product - Personal Loan, and ran a small campaign towards selling the New Product to their clients. 
 After some time, 9% of customers have Personal Loan from The Bank.
 
