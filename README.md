@@ -41,7 +41,7 @@ We performed the following steps:
 > - We tried to make a subset of customers with ideal characteristics who has the highest probability to buy the product. Unfortunately, our dataset does not contain such information. So...
 > - We build a simple algorithm to make a subset of data to get the customers IDs who have a high probability to buy the product.
 
-### Technologis
+### Technologies
 
 - Python
 - Pandas
