@@ -3,6 +3,11 @@
 **Source of data:**
 https://www.kaggle.com/itsmesunil/bank-loan-modelling
 <br><br>
+**Files:**<br>
+00_main.ipynb - main flow of analysis<br>
+expolaratory_report.html - exploratory report<br>
+explanatory report.pdf - explanatory report
+<br><br>
 The case is The Bank has a customers Data with various characteristics of the customers. The management built a new product - Personal Loan, and ran a small campaign towards selling the New Product to their clients. 
 After some time, 9% of customers have Personal Loan from The Bank.
 
@@ -43,4 +48,3 @@ We performed the following steps:
 - Numpy
 - Seaborn
 - Matplotlib
-- Scikit-learn Library
